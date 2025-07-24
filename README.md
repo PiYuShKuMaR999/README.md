@@ -15,8 +15,35 @@
 ---
 
 ### 🛠️ Tech Stack
+
+#### 🌐 Frontend & Web
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,redux,vite" alt="Frontend" />
+</div>
+
+#### ⚙️ Backend & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,mongodb" alt="Backend" />
+</div>
+
+#### 🛠️ Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman,notion,npm,discord" alt="Tools" />
+</div>
+
+#### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Cloud" />
+</div>
+
+#### 🎨 Design & CAD
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=autocad" alt="Design" />
+</div>
+
+#### 🤖 AI/ML
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn" alt="AI/ML" />
 </div>
 
 ---
@@ -30,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiYuShKuMaR999&layout=compact&theme=radical" width="45%" />
   ---
-  <img src="https://github-profile-trophy.vercel.app/?username=PiYuShKuMaR999&theme=radical&margin-w=15" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PiYuShKuMaR999&theme=radical&margin-w=15" width="full" />
 </div>
 
 ---
