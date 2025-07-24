@@ -1,13 +1,16 @@
 name: Generate Pacman Game
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch:    # Allows manual runs
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual runs
 
 jobs:
   generate-pacman:
     runs-on: ubuntu-latest
     steps:
+      - name: Set permissions
+        run: git config --global --add safe.directory /github/workspace
+        
       - uses: actions/checkout@v4
         
       - name: Generate Pacman
@@ -23,5 +26,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist/
-          git commit -m "Update Pacman game"
+          git commit -m "Update Pacman game" || echo "No changes to commit"
           git push
