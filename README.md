@@ -10,7 +10,7 @@
 ---
 
 ### 🕹️ Pacman Eating My Contributions!
-![Pacman Game](https://raw.githubusercontent.com/PiYuShKuMaR999/PiYuShKuMaR999/output/pacman-contribution-graph.svg)
+![Pacman Game](https://raw.githubusercontent.com/PiYuShKuMaR999/PiYuShKuMaR999/main/assets/pacman-contribution.svg)
 
 ---
 
