@@ -29,6 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiYuShKuMaR999&layout=compact&theme=radical" width="45%" />
+  ---
   <img src="https://github-profile-trophy.vercel.app/?username=PiYuShKuMaR999&theme=radical&margin-w=15" width="45%" />
 </div>
 
